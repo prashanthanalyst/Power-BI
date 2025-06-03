@@ -3,7 +3,8 @@
 
 ## Problem Statement
 
-This dashboard enables the manufacturing company to gain insights into their top customers. The management team requires a interactive dashboard to monitor key performance indicators (KPIs) such as revenue, orders, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers effectively.
+This dashboard provides the manufacturing company with valuable insights into its top customers and the products they frequently order, helping optimize business strategies and enhance customer engagement.
+The management team requires a interactive dashboard to monitor key performance indicators (KPIs) such as revenue, orders, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers effectively.
 
 ### Key Processes
 
@@ -22,5 +23,23 @@ Visualization: The dashboard provides a comprehensive visualization, including k
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/MAP.png)
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/Product%20Report.png)
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/Product%20Report.png)
+
+# Insights
+Following inferences can be drawn from the dashboard;
+
+### [1] Total Revenue = $24.9M
+
+### [2] Total Profit = $10.5M
+
+### [3] Total Orders = 25.2K
+
+### [4] Total Returned = 1809
+
+### [5] Total Unique Customer = 10.5K
+
+### [6] Most Ordered Product = Tires and Tubes
+
+
+
 
    
