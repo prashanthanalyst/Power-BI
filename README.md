@@ -22,7 +22,6 @@ Visualization: The dashboard provides a comprehensive visualization, including k
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/Exec%20Dashboard.png)
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/MAP.png)
 ![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/Product%20Report.png)
-![Dashboard_upload](https://github.com/prashanthanalyst/Power-BI/blob/main/Product%20Report.png)
 
 # Insights
 Following inferences can be drawn from the dashboard;
